@@ -21,22 +21,22 @@ A simple project that detects movement via an IR distance sensor and causes a se
 - Pin-to-pin wires.
 
 ## Photographs
-![IMG_1644](https://github.com/user-attachments/assets/6bfe32f3-4ec0-45e0-89cf-328e9adc2c7e)
+![IMG_1644](https://github.com/user-attachments/assets/7b17b9e1-b0f9-40ff-b90a-4a83ac47c13b)
 Picture 1: Whole project, with Pico, IR Distance Sensor and Servo.
 
-![IMG_1646](https://github.com/user-attachments/assets/f63fff40-2afe-40fc-a65d-3155e8097b81)
+![IMG_1646](https://github.com/user-attachments/assets/99dac432-712f-4c7b-975d-f69ebf562e65)
 Picture 2: Status when there is nothing in front of the IR sensor (1 LED).
 
-![IMG_1645](https://github.com/user-attachments/assets/2553a8af-15cc-43d6-936e-9d685a041767)
+![IMG_1645](https://github.com/user-attachments/assets/0eea44a4-791c-4fbe-89f8-36c6c5cb2540)
 Picture 3: Status when there is an object in front of the IR sensor (2 LEDs).
 
-![IMG_1647](https://github.com/user-attachments/assets/612d6c4c-8df6-4a09-8424-eb6af9a01937)
+![IMG_1647](https://github.com/user-attachments/assets/691c3881-9624-434d-803f-6e85bb7a46b1)
 Picture 4: Wire connections to the Raspberry Pi Pico.
 
-![IMG_1648](https://github.com/user-attachments/assets/b3d9a102-5f4c-471e-a322-1e123728a61a)
+![IMG_1648](https://github.com/user-attachments/assets/dc9e4b3b-7846-4630-b3bd-b8613ef8d296)
 Picture 5: Photo of the servo used.
 
-![IMG_1649](https://github.com/user-attachments/assets/b378be37-713b-4f2b-8cf4-7717113370ca)
+![IMG_1649](https://github.com/user-attachments/assets/6ec24227-c360-46a5-94b1-61a708896c9c)
 Picture 6: Photo of the IR distance sensor used.
 
 ## Footnote
