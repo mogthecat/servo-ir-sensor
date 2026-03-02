@@ -7,10 +7,12 @@ A simple project that detects movement via an IR distance sensor and causes a se
 2. Connect the servo to GPIO pin 1, and IR distance sensor to GPIO pin 15 (this is different to the physical pin number).
 3. Copy and paste 'servo_ir_sensor.py' onto your editor and run it.
 
+
 ## Equipment
 - Raspberry Pi Pico
 > [!NOTE]
 > I have not tried it with a different microcontroller, but this one works running CircuitPython.
+> ![pico-pinout](https://github.com/user-attachments/assets/632ea457-16a0-4948-8320-4afe10fc4d83)
 - Miuzei MS18 Micro Servo
 > [!NOTE]
 > Please, please make sure it is a 180 degree servo, not a full rotation/ 360 servo.
@@ -18,6 +20,8 @@ A simple project that detects movement via an IR distance sensor and causes a se
 > [!NOTE]
 > This has 3 pins, VCC, GND and OUT (as previously mentioned beforem the OUT is connected to the Pico's GPIO Pin 15).
 - Pin-to-pin wires.
+
+## Photographs
 
 > [!WARNING]
 > This repository is not planned on being maintained. It is just a place to upload my code. If there are any questions regarding code, setup, etc, I am happy to answer them. Otherwise, there will be few changes to this repository.
