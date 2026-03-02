@@ -15,7 +15,7 @@ A simple project that detects movement via an IR distance sensor and causes a se
 > [!NOTE]
 > Please, please make sure it is 180 degrees, not a full rotation/ 360 servo.
 - IR distance sensor.
-> [!TIP]
-> 
 - Pin to pin wires.
 
+> [!WARNING]
+> This repository is not planned on being maintained. It is just a place to upload my code. If there are any questions regarding code, setup, etc, I am happy to answer them. Otherwise, there will be little change to this repository.
