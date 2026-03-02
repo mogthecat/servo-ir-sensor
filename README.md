@@ -14,16 +14,8 @@ A simple project that detects movement via an IR distance sensor and causes a se
 - Miuzei MS18 Micro Servo
 > [!NOTE]
 > Please, please make sure it is 180 degrees, not a full rotation/ 360 servo.
-- Socket-to-pin wires
+- IR distance sensor.
 > [!TIP]
-> 7 wires for the 7 pin connector on the OLED screen, this can also be achieved without a breadboard through direct connections to the microcontroller.
-- Access to an API server, we used https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT in this code.
-  
-## Pin Layout
-
-<img width="1758" height="562" alt="image" src="https://github.com/user-attachments/assets/6c602631-2e49-41c2-a8e9-a63fbcd4efa5" />
-Raspberry Pi Pico 2 W Pinout Diagram - https://github.com/user-attachments/files/25141177/pico-2-w-pinout.pdf
-
-> [!NOTE]
-> 3.3V and 5V are both acceptable for this screen, please check the voltage of your own LCD display.
+> 
+- Pin to pin wires.
 
